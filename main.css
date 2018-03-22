@@ -1,0 +1,230 @@
+header {
+    width: 70%;
+    background: lightgray;
+    margin: 0 15%;
+}
+
+h1 {
+    text-align: left;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+header h2 {
+    text-align: right;
+    display: inline-block;
+    margin-left: 550px;
+}
+
+#content {
+    width: 70%;
+    margin: 0 15%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    background: linear-gradient(rgb(57, 25, 57), rgb(56, 52, 52),rgb(57, 25, 57));
+}
+
+.top {
+    width: 95%;
+    margin: 0 2.5% 0 2.5%;
+}
+
+.top img {
+    width: 400px;
+    height: 300px;
+    border: 6px solid gray;
+    vertical-align: top;
+}
+
+.about {
+    width: 545px;
+    height: 312px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+    padding-left: 5px;
+}
+
+.about {
+    background: rgb(228, 227, 227);
+}
+
+.about h2 {
+    background: linear-gradient(to bottom, rgb(138, 132, 132), rgb(59, 58, 58),  rgb(138, 132, 132));
+    margin-top: 0;
+}
+
+.tech {
+    margin-top: 0;
+}
+
+
+
+
+.laMode {
+    width: 300px;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+
+.laMode h2 {
+    background: linear-gradient(to bottom, rgb(138, 132, 132), rgb(59, 58, 58),  rgb(138, 132, 132));
+    color: white;
+    padding-left: 8px;
+    margin-bottom: 0;
+}
+
+.laMode p {
+    text-align: center;
+    padding-bottom: 30px;
+    background: linear-gradient(to right,white, rgb(127, 85, 127));
+    margin: 0;
+}
+
+.laMode img {
+    width: 15%;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+}
+
+.laMode .imgOne {
+    width: 100%;
+    height: 200px;
+    margin: 0;
+}
+
+.laMode div {
+    background: linear-gradient(to right,white, rgb(127, 85, 127));
+}
+
+
+.famContacts {
+    width: 300px;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+
+.famContacts h2 {
+    background: linear-gradient(to bottom, rgb(138, 132, 132), rgb(59, 58, 58),  rgb(138, 132, 132));
+    color: white;
+    padding-left: 8px;
+    margin-bottom: 0;
+}
+
+.famContacts p {
+    text-align: center;
+    padding-bottom: 30px;
+    background: linear-gradient(to right,white, rgb(127, 85, 127));
+    margin: 0;
+}
+
+.famContacts img {
+    width: 15%;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+}
+
+.famContacts .imgOne {
+    width: 100%;
+    height: 200px;
+    margin: 0;
+}
+
+.famContacts div {
+    background: linear-gradient(to right,white, rgb(127, 85, 127));
+}
+
+
+
+
+.fiveLeven {
+    width: 300px;
+    display: inline-block;
+    margin-left: 2.5%;
+}
+
+.fiveLeven h2 {
+    background: linear-gradient(to bottom, rgb(138, 132, 132), rgb(59, 58, 58),  rgb(138, 132, 132));
+    color: white;
+    padding-left: 8px;
+    margin-bottom: 0;
+}
+
+.fiveLeven p {
+    text-align: center;
+    padding-bottom: 30px;
+    background: linear-gradient(to right,white, rgb(127, 85, 127));
+    margin: 0;
+}
+
+.fiveLeven img {
+    width: 15%;
+    margin-top: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+}
+
+.fiveLeven .imgOne {
+    width: 100%;
+    height: 200px;
+    margin: 0;
+}
+
+.fiveLeven div {
+    background: linear-gradient(to right,white, rgb(127, 85, 127));
+}
+
+
+footer {
+    width: 70%;
+    background: lightgray;
+    margin: 0 15%;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer ul {
+    list-style-type: none;
+    display: inline-block;
+}
+
+footer ul li {
+    display: inline-block;
+}
+
+footer img {
+    width: 20px;
+    height: 20px;
+}
+
+footer a {
+    color: black;
+}
+
+footer a:visited {
+    color: black;
+}
+
+.butt {
+    background: green;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-top: 10px;
+    display: block;
+    margin-left: 100px;
+
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
